@@ -1,0 +1,28 @@
+.checkout-container {
+    background-image: url('https://tse4.mm.bing.net/th?id=OIP.Wy5tbL7M7ZAnNPzLauxrBAHaE7&pid=Api&P=0&h=180');
+    background-size: cover;
+    background-position: center; 
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+    height: 100vh;
+  }
+  
+  .total-amount {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .logout-button {
+    background-color: #f44336;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    text-decoration: none;
+  }
+  
+  .logout-button:hover {
+    background-color: #d32f2f;
+  }
