@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url('https://cdn-images-1.medium.com/v2/resize:fit:2000/1*YRINRZFr0E1FRJ4JpizEMw.jpeg') no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .App {
+    text-align: center;
+    margin-top: 50px;
+    color: #fff; 
+  }
+  
+  h1 {
+    color: #fff;
+    text-align: center;
+    margin-top: 50px; 
+  }
+  
+  form {
+    width: 300px;
+    margin: 0 auto;
+    background: rgba(255, 255, 255, 0.8); 
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  label {
+    display: block;
+    margin-top: 10px;
+    color: #333;
+  }
+  
+  input {
+    width: calc(100% - 16px);
+    padding: 8px;
+    margin: 5px 0 15px;
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
